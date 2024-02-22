@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T12:25:03 IST" name="Default suite" finished-at="2024-02-22T12:25:26 IST" duration-ms="22949">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T12:25:03 IST" name="Default test" finished-at="2024-02-22T12:25:26 IST" duration-ms="22949">
+      <class name="com.Demoworkshop.testScripts.LoginTest">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:04 IST" name="browserSetup" finished-at="2024-02-22T12:25:09 IST" duration-ms="5866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="TC_Login_001()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:09 IST" name="TC_Login_001" finished-at="2024-02-22T12:25:20 IST" duration-ms="10165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Login_001 -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:20 IST" name="browserTearDown" finished-at="2024-02-22T12:25:20 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:20 IST" name="browserSetup" finished-at="2024-02-22T12:25:25 IST" duration-ms="5492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="loginDataProvider()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:25 IST" name="loginDataProvider" finished-at="2024-02-22T12:25:26 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataProvider -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:com.Demoworkshop.testScripts.LoginTest@1da2cb77]" started-at="2024-02-22T12:25:26 IST" name="browserTearDown" finished-at="2024-02-22T12:25:26 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- com.Demoworkshop.testScripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
